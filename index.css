@@ -54,7 +54,17 @@ animation-name: rotate;
 animation-duration: 5s;
 }
 
-.fontfamily{
+p {
 font-family: "helvetica";
+font-size: 18px;
 
+}
+h1 {
+    font-size: 50px;
+font-family: "helvetica";
+}
+
+h2 {
+    font-size: 40px;
+font-family: "helvetica";
 }
